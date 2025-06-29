@@ -27,7 +27,7 @@
 ### 首次启动
 - 应用程序启动后会显示欢迎界面
 - 程序会自动开始截屏监控
-- 截屏文件保存在 `~/Screenshots/` 文件夹中
+- 截屏文件保存在 `/Users/<UserName>/Library/Containers/com.englishrepeat.Monitor/Data/Screenshots` 文件夹中
 
 ### 快捷键操作
 - **⌘⇧M**：显示/隐藏主界面（默认快捷键，可在设置中修改）
