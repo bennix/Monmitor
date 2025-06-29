@@ -50,10 +50,6 @@
 - `ContentView.swift`：主界面视图
 - `AppDelegate.swift`：系统事件处理和窗口管理
 
-## 开发者
-
-- 开发者：Nelle Rtcai
-- 创建日期：2025年6月28日
 
 ## 许可证
 
